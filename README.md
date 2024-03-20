@@ -28,6 +28,6 @@ Provides a menu for user interaction:
 Handles user input and performs corresponding actions based on the choice.
 ### 3. Execution:
 
-The program starts execution from the main() function.
-User inputs are validated and appropriate actions are taken based on the chosen option.
-The program continues to run until the user chooses to exit.
+* The program starts execution from the main() function.
+* User inputs are validated and appropriate actions are taken based on the chosen option.
+* The program continues to run until the user chooses to exit.
