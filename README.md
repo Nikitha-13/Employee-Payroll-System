@@ -4,16 +4,16 @@ This program is designed to manage employee information and process payroll. It 
 
 ## Class Definition:
 
-### Employee:
+### 1. Employee:
 Constructor method __init__ initializes the employee attributes.
 Method calculate_salary calculates the salary based on the hours worked.
-Functions:
+### 2. Functions:
 
-add_employee():
+* add_employee():
 
 Prompts the user to input employee details.
 Returns an Employee object initialized with the provided details.
-process_payroll(employees):
+* process_payroll(employees):
 
 Takes a list of Employee objects as input.
 Iterates through each employee, prompting for hours worked and calculating their salary.
