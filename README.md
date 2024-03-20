@@ -1,10 +1,10 @@
-Employee Payroll System
+# Employee Payroll System
 
 This program is designed to manage employee information and process payroll. It utilizes a class Employee to create employee objects with attributes such as name, employee ID, position, and hourly rate. Each employee can then have their salary calculated based on the hours they've worked.
 
-Class Definition:
+## Class Definition:
 
-Employee:
+### Employee:
 Constructor method __init__ initializes the employee attributes.
 Method calculate_salary calculates the salary based on the hours worked.
 Functions:
