@@ -24,6 +24,7 @@ Provides a menu for user interaction:
 * Add Employee: Adds a new employee to the system.
 * Process Payroll: Calculates and displays payroll information for added employees.
 * Exit: Terminates the program.
+
 Handles user input and performs corresponding actions based on the choice.
 ### 3. Execution:
 
