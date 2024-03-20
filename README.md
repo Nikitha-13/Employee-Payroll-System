@@ -17,7 +17,7 @@ Returns an Employee object initialized with the provided details.
 
 Takes a list of Employee objects as input.
 Iterates through each employee, prompting for hours worked and calculating their salary.
-main():
+* main():
 
 Initializes an empty list for storing employee objects.
 Provides a menu for user interaction:
