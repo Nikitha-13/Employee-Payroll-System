@@ -21,8 +21,8 @@ Iterates through each employee, prompting for hours worked and calculating their
 
 Initializes an empty list for storing employee objects.
 Provides a menu for user interaction:
-Add Employee: Adds a new employee to the system.
-Process Payroll: Calculates and displays payroll information for added employees.
+8 Add Employee: Adds a new employee to the system.
+* Process Payroll: Calculates and displays payroll information for added employees.
 Exit: Terminates the program.
 Handles user input and performs corresponding actions based on the choice.
 Execution:
